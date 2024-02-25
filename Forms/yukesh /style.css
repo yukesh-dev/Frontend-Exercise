@@ -1,0 +1,11 @@
+* {
+    margin: 5px 10px 5px 0;
+}
+#container{
+    width: 50%;
+    margin: auto;
+    padding: 0px;
+}
+#firstName,#lastName,#secondLastName,#streetAddress,#streetAddress2,#city{
+    width: 100%;
+}

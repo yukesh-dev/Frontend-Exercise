@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px 30px;
+    background-color: red;
+
+}
+
+#header_menu{
+    margin: 0px;
+    padding: 0px;
+    height: 75px;
+    background-color: yellow;
+}
+
+#banner{
+    margin: 0px;
+    padding: 0px;
+    height: 277px;
+    background-color:beige;
+
+}
+
+#member_section{
+    margin: 0px;
+    padding: 0px;
+    height: 290px;
+    background-color:blue;
+}
+
+#split_section{
+    margin: 0px;
+    padding: 0px;
+    height: 350px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#latest_post{
+    
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 70%;
+    background-color:grey;
+}
+
+#popular_post{
+    
+    right: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 30%;
+    background-color:brown;
+
+}
+
+#banner_img{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}

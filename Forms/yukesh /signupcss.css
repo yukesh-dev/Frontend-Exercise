@@ -1,0 +1,29 @@
+
+
+#signupform{
+    padding: 0px;
+    margin: 200px 300px 600px 650px;
+    /* background-color: blue; */
+    height: 300px;
+    width: 400px;
+    background-color: #333333  ;
+    border-radius: 10px;
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  input{
+    width: 96%;
+    border-radius: 10px;
+  }
+  body{
+    background-image: url("bg 1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
